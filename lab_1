@@ -1,0 +1,67 @@
+<!doctype>
+<html>
+	<head>
+		<title>
+		Лабораторна работа №1
+		</title>
+	</head>
+	<body>
+	Получение <b>ортофосфорной</b> кислоты:
+	P<sub>2</sub>O<sub>5</sub>+3H<sub>2</sub>O&rarr;2H<sub>3</sub>PO<sub>4</sub>
+	<tbody>
+		<ol>
+			<li>СП</li>
+			<ol>
+				<li>КИУКИ-19-4</li>
+				<li>КИУКИ-19-8</li>
+				<li>КИУКИ-19-2</li>
+			</ol>
+			<li>КМС</li>
+			<ol>
+				<li>КИУКИ-17-1</li>
+				<li>КИУКИ-17-6</li>
+				<li>КИУКИу-18-6</li>
+				<li>КИУКИ-17-4</li>
+				<li>КИУКИу-18-2</li>
+			</ol>
+			<li>СКС</li>
+			<ol>
+				<li>КИУКИ-18-8</li>
+			</ol>
+		</ol>
+	</tbody>
+	<tbody>
+		<tr>
+			<th colspan=3; align=center>Погода в Харькове</th>
+		</tr>
+		<tr>
+			<td>Дата</td>
+			<td>Температура</td>
+			<td>Облачность</td>
+		</tr>
+		<tr>
+			<td>14.09</td>
+			<td>+12&deg;...+24&deg;</td>
+			<td>Слегка облачно</td>
+		</tr>
+		<tr>
+			<td>15.09</td>
+			<td>+13&deg;...+24&deg;</td>
+			<td>Облачно</td>
+		</tr>
+		<tr>
+			<td>16.09</td>
+			<td>+11&deg;...+25&deg;</td>
+			<td>Ясно</td>
+		</tr>
+	</tbody>
+	<tbody>
+		<form>
+		<input type=searce placeholde="Поиск по сайту">
+		<input type=submit value="Найти">
+		</form>
+	</tbody>
+	<tbody>
+	<a href="-.jpg">Классный рисунок?</a>
+	</tbody>
+	</body>

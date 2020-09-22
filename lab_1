@@ -60,7 +60,7 @@
 	</table>
 	</tbody>
 	<tbody>
-		<form>
+		<form action="http://google.com/search" target="_blank">
 		<input type=searce placeholde="Поиск по сайту">
 		<input type=submit value="Найти">
 		</form>
